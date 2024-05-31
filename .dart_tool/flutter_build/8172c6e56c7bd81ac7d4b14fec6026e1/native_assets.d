@@ -1,0 +1,1 @@
+ C:\\Users\\Nitro\\Desktop\\Downloads\\Build-an-Animated-App-with-Rive-and-Flutter-main\\.dart_tool\\flutter_build\\8172c6e56c7bd81ac7d4b14fec6026e1\\native_assets.yaml: 
